@@ -5,9 +5,10 @@ This file is used to list changes made in each version of the Java cookbook.
 v1.29.0 - 11/6/2014
 -------
 ### Bug
+- **[#214](https://github.com/agileorbit-cookbooks/java/pull/214)** - Update to Oracle JDK 7u71-b14
 - **[#216](https://github.com/agileorbit-cookbooks/java/pull/216)** - Ensure dirs, links, and jinfo files are owned correctly
 - **[#217](https://github.com/agileorbit-cookbooks/java/pull/217)** - Update to Oracle JDK 8u25
-- **[#214](https://github.com/agileorbit-cookbooks/java/pull/214)** - Update to Oracle JDK 7u71-b14
+- **[#218](https://github.com/agileorbit-cookbooks/java/pull/218)** - Update to Oracle JDK 8u60
 
 ### Improvement
 - Adding a connect_timeout option for downloading java.
